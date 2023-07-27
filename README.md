@@ -1,2 +1,6 @@
-# ytubevideodownloaderscript
+# YOUTUBE VİDEO DOWNLOADER SCRİPT
 Fundamental youtube video downloader script
+ First step choose resolution
+ after paste video link and download current  folder
+
+
