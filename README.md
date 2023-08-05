@@ -2,5 +2,6 @@
 Fundamental youtube video downloader script 
  First step choose resolution
  after paste video link and download current  folder video
+ (pip install pytube module for using)
 
 
